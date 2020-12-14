@@ -1,4 +1,5 @@
 #include<iostream>
+#include <stdlib.h>
 #include<conio.h>
 #include<string>
 using namespace std;
